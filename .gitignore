@@ -1,0 +1,32 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python package build files
+*.egg-info/
+dist/
+build/
+
+# Dataset and output directories
+data/
+outputs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db 
