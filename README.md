@@ -1,6 +1,6 @@
-# Reasoning Chain Evaluation Framework
+# Investigating the Structural Impact of Chain-of-Thought Prompts on Commonsense Reasoning in Large Language Models (LLMs)
 
-This project implements a comprehensive framework for evaluating reasoning chains in language models across different datasets and prompting strategies. It supports both zero-shot and few-shot experiments with various prompt templates.
+This framework facilitates the investigation of two distinct Chain-of-Thought prompt structures—one enforcing a clear multi-step format and the other employing a conversational, free-flow approach—on the commonsense reasoning performance of large language models. It supports comprehensive evaluation on CommonsenseQA and CoS-E benchmarks under both zero-shot and few-shot conditions, measuring accuracy and logical consistency via Natural Language Inference (NLI) to analyze the interplay between prompt format and model architecture.
 
 ## Project Structure
 
@@ -221,12 +221,19 @@ The framework generates detailed experiment results in the `outputs` directory:
 
 ## License
 
-[Your License]
+This project is licensed under MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Citation
 
-If you use this framework in your research, please cite:
-
-```bibtex
-[Your Citation]
-``` 
+[If you use this framework in your research or work, please cite it here. Example:
+```
+@misc{yourframework,
+  author = {Your Name/Organization},
+  title = {Investigating the Structural Impact of Chain-of-Thought Prompts on Commonsense Reasoning in Large Language Models (LLMs)},
+  year = {Year},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/your-repo-link}},
+}
+```
+Please fill in your name/organization, year, and repository link as appropriate.] 
