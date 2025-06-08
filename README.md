@@ -221,7 +221,7 @@ The framework generates detailed experiment results in the `outputs` directory:
 
 ## License
 
-This project is licensed under MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
